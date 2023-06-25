@@ -9,10 +9,12 @@ body {
 }
  
 .cropped {
-    width: 100px;
+    min-width: 100px;
     height: 100px;
     overflow: hidden;
     border-radius: 50%;
+    
+    margin: 10px;
 }
 
 .cropped img {
@@ -21,12 +23,28 @@ body {
     object-fit: scale-down;
 }
 
-header div {
-    float: right;
-    position: relative 0 100px 0 0;
+header nav {
+    margin-left: auto;
 }
 
-header nav a {
-    outline: red dashed 1px;
-    align-items: right;
+header nav ul a {
+    padding: 10px;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+    margin: 5px;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+.aboutme {
+    font-family: monospace;
+    font-size: 20px;
 }
