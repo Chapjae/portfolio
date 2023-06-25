@@ -44,7 +44,33 @@ h2 {
     font-size: 40px;
 }
 
+h3 {
+    font-size: 30px;
+    max-width: 300px;
+    top: 45%;
+    font-family: monospace;
+    position: absolute;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border: solid red 1px;
+}
+section p {
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+}
+
 .aboutme {
     font-family: monospace;
     font-size: 20px;
+}
+
+main {
+    display: flex;
 }
