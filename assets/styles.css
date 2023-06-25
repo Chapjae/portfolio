@@ -23,10 +23,14 @@ body {
 }
 
 header nav {
+    /* position: relative; */
+    display: flex;
     margin-left: auto;
+    flex-wrap: wrap;
 }
 
 header nav a {
+    display: flex;
     padding: 10px;
     font-size: 30px;
     font-family: monospace;
