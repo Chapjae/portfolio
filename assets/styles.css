@@ -60,6 +60,10 @@ section {
     position: relative;
 }
 
+section img {
+    cursor:pointer
+}
+
 section img:active {
     visibility: hidden
 }
