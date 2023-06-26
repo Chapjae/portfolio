@@ -77,12 +77,14 @@ section img {
 }
 
 #first-app {
-    display: flex;
+    display: block;
     text-align: left;
-    max-width: 1600px;
-    max-height: 1080px;
-    border: red solid;
+    max-width: 1000px;
+    max-height: 1000px;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 #first-app img {
@@ -96,13 +98,14 @@ section img {
 }
 
 .first-app-info {
-    font-size: 50px;
+    height: auto;
+    width: auto;
+    font-size: 30px;
     font-family: monospace;
     margin-right: 100;
     color: whitesmoke;
     bottom: 10%;
     position: absolute;
-    text-size-adjust: auto;
 }
 
 .first-app-p {
