@@ -2,6 +2,7 @@ header {
     display: flex;
     align-items: center;
     background-color: aliceblue;
+    margin-bottom: 30px;
 }
 
 body {
@@ -44,11 +45,13 @@ h1 {
 h2 {
     font-family: monospace;
     font-size: 40px;
+    padding: 5px;
 }
 
 h3 {
     font-family: monospace;
     text-align: center;
+    padding: 15px;
     font-size: 35px;
 }
 
@@ -100,14 +103,15 @@ section img {
     font-size: 30px;
     font-family: monospace;
     color: whitesmoke;
-    bottom: 10%;
+    bottom: 15%;
     position: absolute;
+    font-weight: bold;
 }
 
-.first-app-p {
-    font-size: 35px;
-    font-family: monospace;
-    position: absolute;
+.first-app-info p {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: normal;
 }
 
 .placeholderapp:hover {
@@ -128,6 +132,7 @@ section .placeholder-p {
 .aboutme {
     font-family: monospace;
     font-size: 20px;
+    margin: 10px;
 }
 
 main {
@@ -137,7 +142,7 @@ main {
 }
 
 footer {
-
+    margin-top: 30px;
     align-items: center;
     background-color:aliceblue; 
     font-family: monospace;
