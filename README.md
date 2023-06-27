@@ -14,7 +14,7 @@ Simply visit click here to visit the [Portfolio](https://chapjae.github.io/portf
 This section will describe the current interactive elements of the portfolio app:
 
 ![Header navbar](./assets/images/image.png)
-*The header navbar contains the three bookmark links for quickly navigated to specific sections of the website.*
+*The header navbar contains the three bookmark links for quickly navigated to specific sections of the website. The user may need to resize their browser window to see the link effects.*
 
 ![Horiseon Link](./assets/images/image2.png)
 *When a user clicks on this image, a new tab will open in their browser and take them to the Horiseon refactor project.*

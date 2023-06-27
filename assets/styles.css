@@ -151,3 +151,18 @@ footer {
     justify-content: center;
 }
 
+@media screen and (max-width:992px)
+{
+    header{display:block};
+    h1{font-size: 25px;}
+    nav{font: size 20px;}
+    h2{font-size: 20px;}
+}
+
+@media screen and (max-width:768px)
+{
+    header{display:block};
+    h1{font-size: 20px;}
+    nav{font-size: 15px;}
+    h2{font-size: 15px;}
+}
