@@ -20,7 +20,7 @@ This section will describe the current interactive elements of the portfolio app
 *When a user clicks on this image, a new tab will open in their browser and take them to the Horiseon refactor project.*
 
 ![Placeholder Project](./assets/images/image3.png)
-*Currently, there are four folder icons that serve as placeholders for future projects that will be linked to this website. They have a simple animation that will play when the user hovers over them.*
+*These folder icons serve as placeholders for future projects that will be linked to this website. Currently, the first folder icons links to the class prework project, but will be replaced in the future. They have a simple animation that will play when the user hovers over them.*
 
 ![Footer](./assets/images/image4.png)
 *The footer contains two links that will open a new tab in the user's browser and navigate to their specific external links.*
